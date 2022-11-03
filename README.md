@@ -1,1 +1,6 @@
-# potential-octo-barnacle
+# Proiect Test
+
+## Detalii
+###
+-Learning
+-Developing
